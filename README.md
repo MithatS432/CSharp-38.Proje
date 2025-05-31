@@ -1,2 +1,2 @@
-# CSharp-38.Proje
+# C#-38.Proje
 String İşlemleri2
